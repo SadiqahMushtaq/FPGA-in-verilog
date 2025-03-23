@@ -1,4 +1,3 @@
-```markdown
 # FPGA Project - Custom Configurable FPGA Design
 
 ## Project Overview
